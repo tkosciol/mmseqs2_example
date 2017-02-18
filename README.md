@@ -32,10 +32,10 @@ $ wc -l DB_new_clu.index DB_clusterupdate10k.index DB_trimmed10k_clu.index
 ```
 
 ### my results
+| n | file |
 |-----|-----|
 | 5761 | DB_new_clu.index |
 | 5656 | DB_clusterupdate.index |
 | 5656 | DB_trimmed_clu.index |
 | 4250 | DB_clusterupdate10k.index |
 | 4250 | DB_trimmed10k_clu.index |
-|-----|-----|
